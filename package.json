@@ -2,10 +2,14 @@
   "name": "rtl",
   "displayName": "RTL",
   "description": "an extention to make the code editor go from ltr to rtl with one line or all lines",
-  "version": "0.0.1",
+  "publisher": "SarbandAkray",
+  "version": "0.0.2",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {"type": "git",
+    "url": "https://github.com/SarbandAkray/RTL"},
   "categories": [
     "Other"
   ],

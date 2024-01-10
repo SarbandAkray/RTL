@@ -18,9 +18,15 @@ index.rtl.js
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.2
 
 Initial release of RTL
 
+
+## Open Source
+
+this is an Open Source project feel free to contribute to it and make a pull request 
+
+<3
 
 **Enjoy!**
